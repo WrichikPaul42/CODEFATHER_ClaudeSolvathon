@@ -1,0 +1,12 @@
+# Core data science and simulation libraries
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+
+# Web application dashboard
+streamlit
+
+# Anthropic Claude API client
+anthropic

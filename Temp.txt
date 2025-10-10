@@ -1,1 +1,9 @@
 Codefather
+# Create the virtual environment in a hidden directory named.venv
+python3 -m venv.venv
+
+# Activate the environment (on macOS/Linux)
+source.venv/bin/activate
+
+# On Windows, use:
+#.venv\Scripts\activate

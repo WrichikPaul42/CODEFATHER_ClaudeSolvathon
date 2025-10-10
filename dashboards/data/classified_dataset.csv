@@ -1,0 +1,3501 @@
+true_label,recoil_energy_keV,s1_photons,s2_charge,s2_photons,confidence,event_id,log10_s2_s1,classification,reasoning
+Nuclear Recoil,6.977265620923524,13.55428972346805,334.51775348049523,341.39198937693675,0.8780028127759123,0,1.3923423763254372,Sample_Category,"**Moderate S1 signal** (13.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.40): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,2.6033645038727187,5.676515421188309,130.74444939001367,118.67539245857488,0.7676053021697752,1,1.362341365232406,Sample_Category,"**Low S1 signal** (5.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.32): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,29.382960162888427,50.70566910689578,5926.723651737359,5624.371731126026,0.8121227969092111,2,2.067758151160569,Sample_Category,"**High S1 signal** (50.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,32.88535349508001,57.215484041996255,6587.017233029445,6851.001728446924,0.8697010427243688,3,2.0611752157095147,Sample_Category,"**High S1 signal** (57.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.99281524340984,31.561795466020573,3963.470096686971,4410.47201794882,0.7588091104186574,4,2.0989138711663182,Sample_Category,"**Moderate S1 signal** (31.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.69664852602593,63.45800093827972,8431.115895171115,9013.257799780224,0.8584004643283689,5,2.123398665634468,Sample_Category,"**High S1 signal** (63.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.256341086557434,23.27155594715101,2848.9467345707053,3368.689564311787,0.5559425211607889,6,2.0878588896139267,Sample_Category,"**Moderate S1 signal** (23.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.960701992373682,25.764911688086297,3595.699770468562,3462.38968504225,0.7583659831357785,7,2.144754747417181,Sample_Category,"**Moderate S1 signal** (25.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,11.947421094441232,14.4311888430947,2405.870793894004,2272.7548872193147,0.8824868688891861,8,2.221970160345648,Sample_Category,"**Moderate S1 signal** (14.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.9585988272980273,5.830278660999177,202.67137958750587,172.7162717029949,0.8310318482922991,9,1.5411030388382916,Sample_Category,"**Low S1 signal** (5.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.47): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,28.51098166817146,49.05044710184107,5702.779808583206,5649.942407885205,0.568583767847104,10,2.0654436240908534,Sample_Category,"**Moderate S1 signal** (49.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.7253791349069,51.15166210181386,7535.277965724567,8616.909826971787,0.8027403232914745,11,2.1682395189513275,Sample_Category,"**High S1 signal** (51.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.97575313716119,64.97726200135264,9014.249418938489,9147.562690736677,0.7327999919861158,12,2.1421681567545026,Sample_Category,"**High S1 signal** (65.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.253002338236143,41.32548632246301,5326.449961503849,6230.797141893582,0.8693801656512188,13,2.110219867943166,Sample_Category,"**Moderate S1 signal** (41.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.33699987552096,61.59826740096023,8284.149121346112,8502.47554333885,0.5785181223392866,14,2.128679404181615,Sample_Category,"**High S1 signal** (61.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.3666667925340485,7.959974428769334,160.3113203453747,181.1748068191609,0.8805995113455172,15,1.3040524666076871,Sample_Category,"**Low S1 signal** (8.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.36): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,33.789570508862695,60.04029036589853,6794.319806534861,6438.089521376489,0.8396988713633371,16,2.053703194048407,Sample_Category,"**High S1 signal** (60.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.712710140560436,9.854644487476484,179.99479558812104,177.71528202747766,0.9824661830271246,17,1.261618944884427,Sample_Category,"**Low S1 signal** (9.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.26): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,13.604929969923347,17.556179840017933,2722.0114964004547,3105.3510688417723,0.6528313531448119,18,2.1904599095610338,Sample_Category,"**Moderate S1 signal** (17.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.25): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.319866515748826,7.684732380694248,1281.3434142842248,1307.459725594921,0.5257889150350937,19,2.222036737042371,Sample_Category,"**Low S1 signal** (7.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,21.90702808345988,35.38973753013869,4390.1848441645125,3950.170464466073,0.8494710108989802,20,2.0936054522900305,Sample_Category,"**Moderate S1 signal** (35.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,32.85673199597471,54.53143047722176,6648.413943732609,7620.575055759458,0.8902899775169661,21,2.0860711534554284,Sample_Category,"**High S1 signal** (54.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,8.569935704443466,14.891132197007911,1757.5339347351078,1731.084764543001,0.7575059376578952,22,2.0719759711562764,Sample_Category,"**Moderate S1 signal** (14.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,39.28707405217983,70.196959773856,7843.826179646205,7630.304158748512,0.8626480812651947,23,2.048209651671709,Sample_Category,"**High S1 signal** (70.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.47286737842318,13.549168364770017,2497.979941727326,2529.956905925408,0.5471613375996432,24,2.265676275435061,Sample_Category,"**Moderate S1 signal** (13.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.27): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,45.03001830208026,52.9776648868548,9181.147347354245,8034.029582229274,0.6578860182247728,25,2.238804137398837,Sample_Category,"**High S1 signal** (53.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.136382600858006,43.95896605836323,6634.128002918434,7674.800145260209,0.6128144470357426,26,2.1787363679922285,Sample_Category,"**Moderate S1 signal** (44.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.41809780302693,42.35909071493133,6297.7849498178775,6201.720726109076,0.8295894402160884,27,2.172241187615,Sample_Category,"**Moderate S1 signal** (42.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.308045767881512,6.473976419558384,162.0803933951306,135.01155013230007,0.8409168197553334,28,1.398559304496254,Sample_Category,"**Low S1 signal** (6.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.32): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,22.621590106422573,32.742005085619105,4566.019237106502,4829.1109722379215,0.6038650625567407,29,2.144432452093012,Sample_Category,"**Moderate S1 signal** (32.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,10.912906382990746,16.29769193758395,2175.09852571054,2072.12200011266,0.5789856295169025,30,2.125352803160304,Sample_Category,"**Moderate S1 signal** (16.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.631154615209667,38.08114345815267,5245.404753553533,5911.224214870596,0.8412998634316085,31,2.1390690137445136,Sample_Category,"**Moderate S1 signal** (38.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.43917990676557,50.86753369427377,6705.664119974194,7494.713798885714,0.7118793492567237,32,2.1200011063566944,Sample_Category,"**High S1 signal** (50.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.4414834585734,49.96452593812121,6279.624884286946,6185.971548351807,0.7957259664593723,33,2.099271921953975,Sample_Category,"**Moderate S1 signal** (50.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.87369347221281,42.17444537605275,6141.337779454941,6308.0227113923065,0.773082533672188,34,2.1632135944068898,Sample_Category,"**Moderate S1 signal** (42.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.29253580450138,60.17369655986494,7481.043302548018,8294.207857001875,0.8591802537748258,35,2.09455546975106,Sample_Category,"**High S1 signal** (60.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.84159939928676,72.16289638120006,9273.15784396704,8803.142313538667,0.7483904362289601,36,2.10891369022553,Sample_Category,"**High S1 signal** (72.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.62838593531264,53.47822603204565,6301.081413735009,5330.163287077589,0.7901250970570401,37,2.0712380904355907,Sample_Category,"**High S1 signal** (53.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.550356296366338,10.399540442341312,1305.8330522325546,1234.622929545664,0.736686442354265,38,2.0988734673364906,Sample_Category,"**Moderate S1 signal** (10.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,29.166683837451856,49.01000088038092,5840.02604404041,5897.560826034383,0.6738908069652302,39,2.076130064785031,Sample_Category,"**Moderate S1 signal** (49.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.06181078031173,69.24462201029515,8780.71527241028,7163.269043772732,0.6405175726884373,40,2.103143839623227,Sample_Category,"**High S1 signal** (69.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.01): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.35264349805507,27.20161258459924,2830.4639729633013,2971.115468918397,0.502724810899238,41,2.0172629646667004,Sample_Category,"**Moderate S1 signal** (27.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.71536289133678,68.82737923884861,8331.238252287616,7926.656043430129,0.7627611781546826,42,2.0829483150057606,Sample_Category,"**High S1 signal** (68.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,5.612473167027978,13.620634567183602,273.85943924021507,292.59608092427635,0.7580093392168284,43,1.3033303430044452,Sample_Category,"**Moderate S1 signal** (13.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.33): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,2.749395473277553,5.514738233399813,133.72377842764186,134.55381216939122,0.8697229538433728,44,1.3846836610570703,Sample_Category,"**Low S1 signal** (5.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.39): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,19.027496234867645,29.34752863887704,3832.969767732613,4301.512716010632,0.7820798638478563,45,2.115963844016814,Sample_Category,"**Moderate S1 signal** (29.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.193758808205693,51.4971232130484,6169.434839977839,6113.327443231975,0.5352532408109345,46,2.078462404617255,Sample_Category,"**High S1 signal** (51.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.22262066121671,46.15880466363522,5990.20058651065,4915.18466177162,0.797329007386465,47,2.113186802255518,Sample_Category,"**Moderate S1 signal** (46.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,5.220482696556765,8.131051081921052,1020.00710003931,1126.5449465309975,0.6954529713123788,48,2.0984564523592844,Sample_Category,"**Low S1 signal** (8.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,12.311003213983652,25.50941462495941,617.9414650434319,712.3773888425009,0.9164158647368456,49,1.3842468290632726,Sample_Category,"**Moderate S1 signal** (25.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.45): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,22.690721025659712,31.734914764765904,4586.4684790099645,4756.001195554726,0.8979177935414714,50,2.1599410633271776,Sample_Category,"**Moderate S1 signal** (31.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.75136078399433,23.14493385334381,3566.405886737742,3903.289177780057,0.7530176552203829,51,2.1877748054079698,Sample_Category,"**Moderate S1 signal** (23.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.4058103830849977,4.7462940302348,124.37214164903914,148.23531926293532,0.7704665445558191,52,1.4183683857840266,Sample_Category,"**Low S1 signal** (4.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.49): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,3.0002995164572503,7.982164303703836,142.78950299870326,146.01922237156026,0.9942880967375576,53,1.2525755676080674,Sample_Category,"**Low S1 signal** (8.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.26): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,48.27624953533224,72.7384673865513,9644.76019891867,8982.354470679064,0.7907791382489233,54,2.122527282024227,Sample_Category,"**High S1 signal** (72.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,15.161081058348424,25.501701809065384,3045.5561918332323,3293.0278280143466,0.7585599705763431,55,2.0770974367027977,Sample_Category,"**Moderate S1 signal** (25.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,28.71136327440864,45.72151969890865,5736.064131807871,6203.883535929149,0.5411772351625168,56,2.098493331763918,Sample_Category,"**Moderate S1 signal** (45.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,2.3445677614491345,4.299957881590084,481.1622354973437,572.4436696152871,0.7879213631372993,57,2.0488272322150625,Sample_Category,"**Low S1 signal** (4.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,5.409009242647324,6.654312688531522,1098.1975026156508,1283.2798865368832,0.5540408379110896,58,2.2175771822210426,Sample_Category,"**Low S1 signal** (6.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.29): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.030665534284587,47.168528626286594,6132.809559860712,6832.16593541551,0.5873036492313864,59,2.114007140667669,Sample_Category,"**Moderate S1 signal** (47.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.501741125739665,8.124113968155815,222.97121816849312,183.7515890729033,0.8647429128714543,60,1.4384727478248085,Sample_Category,"**Low S1 signal** (8.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.35): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,29.546600335509154,49.53978831722568,5886.12645227385,6960.8036198341215,0.8787622643405366,61,2.074875432645104,Sample_Category,"**Moderate S1 signal** (49.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,40.19293298004268,65.16908595191971,8114.875668221138,8113.545233834207,0.7791302442472239,62,2.095240233861164,Sample_Category,"**High S1 signal** (65.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,29.81508424768972,38.94137748699168,5974.178321892255,6326.742689488642,0.5905656372350468,63,2.1858668606325136,Sample_Category,"**Moderate S1 signal** (38.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.329363137036035,5.875761564533995,1268.401796271686,1167.354876951719,0.7931368121162191,64,2.334192610796632,Sample_Category,"**Low S1 signal** (5.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.30): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,38.431953069489325,57.790919893594165,7637.37496155501,6405.905469435957,0.6589257464362934,65,2.1210844981652874,Sample_Category,"**High S1 signal** (57.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.66698708730302,65.61467425452805,9365.239490161284,10546.09905336069,0.7612566655069666,66,2.154517904058355,Sample_Category,"**High S1 signal** (65.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.34922462408247,51.54066394205957,6703.192908045515,5838.995609799016,0.6485524469381043,67,2.114131700777147,Sample_Category,"**High S1 signal** (51.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.062052989791683,13.4038529656667,283.3017374108002,313.7637915664372,0.8050337200519174,68,1.3250195518970342,Sample_Category,"**Moderate S1 signal** (13.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.37): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,3.162178071084883,6.51187754165034,657.1125185796712,685.0606483145093,0.8388062197661575,69,2.003933450050908,Sample_Category,"**Low S1 signal** (6.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.02): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.631021122417213,19.96205758579356,2526.4044840464685,2957.5377591250253,0.7768247034668705,70,2.1022975578075744,Sample_Category,"**Moderate S1 signal** (20.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,36.61030109853769,52.26350601162527,7210.380391995834,6487.937729640046,0.5493318594503568,71,2.13975962848244,Sample_Category,"**High S1 signal** (52.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,7.943921408686956,17.332080103127876,393.9343557771933,428.52549805968897,0.7902088772058024,72,1.3565731466358173,Sample_Category,"**Moderate S1 signal** (17.3 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.39): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,16.621060515028944,23.724647236888043,3300.441212061829,3644.281268967002,0.8775094174738327,73,2.143372219667779,Sample_Category,"**Moderate S1 signal** (23.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,29.49741896595858,43.65798446120533,5903.74984633502,6860.149455404446,0.6336192851010276,74,2.1310642554513866,Sample_Category,"**Moderate S1 signal** (43.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,34.0835806787665,65.30683375754984,6796.627261736213,7130.782066565536,0.7465725213623053,75,2.017334817999416,Sample_Category,"**High S1 signal** (65.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,2.0231867300995603,2.20171401474924,416.4154607423305,386.0112678491986,0.6636038324879249,76,2.276765742607448,Sample_Category,"**Low S1 signal** (2.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,22.42025380914903,22.81183074575019,4523.05156443226,5009.471047446734,0.7239028463875401,77,2.297271379305541,Sample_Category,"**Moderate S1 signal** (22.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.34): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,21.53415159785916,35.98411190796585,4259.326258990633,3892.3849304355913,0.6546982453735547,78,2.07323010706958,Sample_Category,"**Moderate S1 signal** (36.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.440586972534827,4.633765068892144,121.15541384976744,138.43547274986935,0.9211308239092456,79,1.4174087239337427,Sample_Category,"**Low S1 signal** (4.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.48): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,24.56377671410082,44.43972461030613,1232.6248238446233,1277.3947034076882,0.8350284857151733,80,1.443059541337339,Sample_Category,"**Moderate S1 signal** (44.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.46): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,46.56964926797151,62.99069847510664,9452.895836407955,9014.508812094671,0.6576952750295051,81,2.1762884414126344,Sample_Category,"**High S1 signal** (63.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.965487881068228,23.33775279120418,4059.307649360465,3297.769971512042,0.7851740143850228,82,2.240392913447381,Sample_Category,"**Moderate S1 signal** (23.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.131166463859888,11.667819021760668,1823.7293810019064,1523.7567208007183,0.8936505176889544,83,2.1939706736243,Sample_Category,"**Moderate S1 signal** (11.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,40.3829215668263,55.061735226592845,8085.291337206951,8361.173756865903,0.7504176606459253,84,2.166845771902008,Sample_Category,"**High S1 signal** (55.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,5.518504955578273,9.16187144766254,1112.040574049583,1275.6448318649957,0.5199685968628052,85,2.0841363924488467,Sample_Category,"**Low S1 signal** (9.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.82073270505466,41.801048464477965,6124.555609164128,7331.130714516136,0.5417971038316707,86,2.165887396948362,Sample_Category,"**Moderate S1 signal** (41.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.35217767515852,41.96041944484341,6025.744764932508,5537.648341853925,0.8917093896259514,87,2.157170901011652,Sample_Category,"**Moderate S1 signal** (42.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.53079504743249,58.238031737571966,9040.454681188958,8574.085482385542,0.8404443473354344,88,2.19098357728457,Sample_Category,"**High S1 signal** (58.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.07793191946533,42.734832341873016,4983.7096587358565,4531.6932965330825,0.8800132665028129,89,2.0667707186920925,Sample_Category,"**Moderate S1 signal** (42.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.210651817569472,8.868393418007324,217.98336979170367,199.47599105360567,0.8936648502820095,90,1.3905783640913734,Sample_Category,"**Low S1 signal** (8.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.35): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,14.769996922325456,22.68926255029705,3013.0041768148685,3240.3280417252654,0.6934398536043364,91,2.1231793341110543,Sample_Category,"**Moderate S1 signal** (22.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,13.60147487653802,21.41667815326877,2697.8065982019552,2703.101908088865,0.6276718549199078,92,2.1002586821871967,Sample_Category,"**Moderate S1 signal** (21.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,45.06397227169138,52.96929058687248,9073.587912216057,8965.355732468839,0.5709307751612518,93,2.233754886720352,Sample_Category,"**High S1 signal** (53.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,29.2217490872214,42.95872635049409,5893.9631524945935,5481.851938985478,0.7670177137140015,94,2.137356009565082,Sample_Category,"**Moderate S1 signal** (43.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,4.665587292902785,2.873946202479168,1001.9334801610556,958.5078674624792,0.8191416917413072,95,2.5423601040599166,Sample_Category,"**Low S1 signal** (2.9 photons).
+
+**High S2/S1 ratio** (log₁₀=2.52): Electronic recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,49.108425851905714,64.14982886596034,9806.121300495814,8051.735699996717,0.6030259488947028,96,2.1843017522515056,Sample_Category,"**High S1 signal** (64.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.11368725591899,54.67910105316861,6584.572932103091,5529.683688760322,0.792026243545493,97,2.080706238514188,Sample_Category,"**High S1 signal** (54.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.249001984952514,9.481346731077409,1845.3158455642904,2183.807460231812,0.8634674514138707,98,2.2892006365033706,Sample_Category,"**Low S1 signal** (9.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.36): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.537962536522597,11.272349074075748,219.07707236120748,242.55914904363263,0.7201452710512123,99,1.288582462819886,Sample_Category,"**Moderate S1 signal** (11.3 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.33): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,25.966505166699736,26.19748747196411,5302.139025301243,4931.52200709911,0.8762839129409923,100,2.3061914531721133,Sample_Category,"**Moderate S1 signal** (26.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.27): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.9166465773778,22.15029983552668,4020.8066353835775,4104.166312469711,0.5856261235087379,101,2.2589335590632067,Sample_Category,"**Moderate S1 signal** (22.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.27): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.615826156238505,29.45779333173821,3522.228051211774,3539.943739049665,0.589977237429394,102,2.077617245932918,Sample_Category,"**Moderate S1 signal** (29.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,2.0179493285372736,4.689391686186088,397.0275007677687,451.0640827365912,0.8061535878964714,103,1.927703989273767,Sample_Category,"**Low S1 signal** (4.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.98): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.56528337952572,51.11355791202456,6253.006999258453,5045.498455847402,0.6267893244441038,104,2.087552794004796,Sample_Category,"**High S1 signal** (51.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.99): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,29.96250658251208,41.74779746691866,6033.54291735039,5429.710179530426,0.8742423378778246,105,2.15993882805365,Sample_Category,"**Moderate S1 signal** (41.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.41794976217918,12.078199054693425,1271.1366998467631,1116.6230688038142,0.6265508353528267,106,2.022190039376829,Sample_Category,"**Moderate S1 signal** (12.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.97): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.266334931741579,4.75973458673788,104.2939258273789,107.72265042388064,0.8005714307338804,107,1.340676192199339,Sample_Category,"**Low S1 signal** (4.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.35): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,10.089640149484488,14.416761642342848,2041.4023527372008,1784.2696312560993,0.8625334614268327,108,2.151060862888621,Sample_Category,"**Moderate S1 signal** (14.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,7.31497080272951,14.896547614613214,358.6586875581023,385.6840787391767,0.7014858340462973,109,1.3815956978841455,Sample_Category,"**Moderate S1 signal** (14.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.41): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,4.529635413128183,7.706076231206245,898.099387305579,987.1524564627206,0.5915414185133623,110,2.0664910433430075,Sample_Category,"**Low S1 signal** (7.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.89094344519812,22.652975617875875,3441.380805332441,3973.511924583773,0.5883368675502313,111,2.181607455464221,Sample_Category,"**Moderate S1 signal** (22.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.35663056371,53.03173663318407,8264.420328946524,9727.907756311775,0.6056818098229165,112,2.1926765399650185,Sample_Category,"**High S1 signal** (53.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.26): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.33863550481237,47.51315751671461,6012.051724677609,4852.381041850408,0.5811076575036049,113,2.102208806623848,Sample_Category,"**Moderate S1 signal** (47.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.01): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,40.1076153028932,56.23427340439394,8061.950226075615,8815.711434361338,0.7280358183764779,114,2.15643901680012,Sample_Category,"**High S1 signal** (56.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.279980425770475,27.418730781750885,3874.641870044593,3101.8288903737503,0.7692882393119773,115,2.150184204144149,Sample_Category,"**Moderate S1 signal** (27.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,12.355736842443957,30.311903402621407,611.3500151375508,531.8928734130046,0.9157088523639348,116,1.3046767054107729,Sample_Category,"**Moderate S1 signal** (30.3 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.24): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,32.308529004078096,46.86180046477159,6503.836875643883,7585.665669569739,0.6270778582866644,117,2.1423506603792486,Sample_Category,"**Moderate S1 signal** (46.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.27552775485543,67.35084822049974,8220.45396338508,7457.057179174623,0.8042785206802167,118,2.086552725505324,Sample_Category,"**High S1 signal** (67.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,2.7770404252323093,3.7640848056774514,564.4298416018224,572.3426518379825,0.8070452657510157,119,2.175950452762584,Sample_Category,"**Low S1 signal** (3.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,20.354052566410697,41.52293015998333,1035.4578978425698,1053.0511043710724,0.9079280807861146,120,1.3968444420514292,Sample_Category,"**Moderate S1 signal** (41.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.40): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,24.421442118931218,41.14570606971899,4894.464133257486,5356.172967698094,0.6923852979227106,121,2.075380620552533,Sample_Category,"**Moderate S1 signal** (41.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,8.936904215033257,19.130053093556533,1725.5734085032982,1897.637034280306,0.5334909809690015,122,1.9552172417442155,Sample_Category,"**Moderate S1 signal** (19.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,21.36876930311262,28.69668549106471,4341.514756628174,5075.506829408338,0.6732840455383423,123,2.1798095284902,Sample_Category,"**Moderate S1 signal** (28.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.25): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,39.00843208718653,48.73177820262556,7887.085665662399,7566.285574967026,0.6090152301438888,124,2.209104290190586,Sample_Category,"**Moderate S1 signal** (48.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,39.00269077799403,60.42032844951154,7876.489691705902,8281.550424140165,0.6334338855720322,125,2.1151496200292748,Sample_Category,"**High S1 signal** (60.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.734380020425746,10.09200414441051,185.70032122765085,154.69101048197845,0.8780102209146228,126,1.2648351941016016,Sample_Category,"**Moderate S1 signal** (10.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.19): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,5.6316653957467615,9.217303762697778,291.54744514292594,254.6989442703688,0.9800648427367632,127,1.5001052941791604,Sample_Category,"**Low S1 signal** (9.2 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.44): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,23.73956500352066,39.55380464647134,4757.265336893925,4145.580917432613,0.8837807173911141,128,2.0801690997640674,Sample_Category,"**Moderate S1 signal** (39.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.02): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,35.08617273180535,50.937566569684,7056.227628056409,7615.853695660877,0.7525260794257159,129,2.1415343802068203,Sample_Category,"**High S1 signal** (50.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.02009375222277,45.35777076019048,4972.1852575528565,5633.013810317755,0.841709120076612,130,2.039895590324194,Sample_Category,"**Moderate S1 signal** (45.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,42.08069920358841,65.74484338738439,8369.981033178894,8005.3171645480625,0.5878177731312645,131,2.1048627721402293,Sample_Category,"**High S1 signal** (65.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,48.131963837790096,67.8594994008423,9684.30390528097,8831.112657757409,0.502605578617397,132,2.1544577517867043,Sample_Category,"**High S1 signal** (67.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.212822664993645,50.74668708052714,5933.1411429639975,6095.946326355028,0.8742438384871685,133,2.067876976105144,Sample_Category,"**High S1 signal** (50.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.696730047090558,7.901371478349074,132.9840251904702,135.47000622924762,0.947892214551492,134,1.2260969420620458,Sample_Category,"**Low S1 signal** (7.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.23): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,32.99811407246405,47.35678869357521,6647.03000750881,7273.934128738259,0.6538492671676114,135,2.147245385448457,Sample_Category,"**Moderate S1 signal** (47.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.30765508615483,38.45200233052707,5001.771430795853,4190.2743724907605,0.8546016991314325,136,2.1142048704406573,Sample_Category,"**Moderate S1 signal** (38.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.299071534106596,5.780994203251162,165.24918689712626,176.8358264241608,0.8522193712780459,137,1.456136724838351,Sample_Category,"**Low S1 signal** (5.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.49): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,47.60083682013361,69.2810627926061,9559.758600701924,7730.366942616009,0.662994345418643,138,2.139832378286391,Sample_Category,"**High S1 signal** (69.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.682666551956764,45.68794951070935,6433.767323087268,5987.4953857889695,0.8413329408113206,139,2.148663673948375,Sample_Category,"**Moderate S1 signal** (45.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.87250362360863,47.56877307020543,6400.75804030924,6363.077587622598,0.5900777019590806,140,2.1289094514514235,Sample_Category,"**Moderate S1 signal** (47.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,13.556554235661654,15.028801188635658,2730.687109081116,2978.417825173432,0.5749389613187359,141,2.259347572051289,Sample_Category,"**Moderate S1 signal** (15.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.30): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,18.60408303240556,31.38909557559144,3646.923347048141,3667.1330090313104,0.6318736367091522,142,2.065147819053708,Sample_Category,"**Moderate S1 signal** (31.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.98350429234854,14.69269693827876,1960.771411334456,2313.3120297711343,0.6687711244264116,143,2.125325416171723,Sample_Category,"**Moderate S1 signal** (14.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,20.24210344657454,38.0073801147316,1032.7667686652194,961.8658966600804,0.9290002919832808,144,1.4341343098857522,Sample_Category,"**Moderate S1 signal** (38.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.40): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,19.06035544568917,27.78768131436637,3815.762241799897,3663.854774116672,0.7416662873946314,145,2.1377289812082894,Sample_Category,"**Moderate S1 signal** (27.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,45.19995862747636,64.9629118144897,8982.219226518842,7554.914164702384,0.8688934671102383,146,2.140718160993482,Sample_Category,"**High S1 signal** (65.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,48.86251747850385,72.92255346329935,9697.296042387865,11417.326240579743,0.769943834453122,147,2.1237887806455733,Sample_Category,"**High S1 signal** (72.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,8.430402822763762,20.470932884054577,411.7670841919792,335.9250639147371,0.7502413203507371,148,1.3035139724929057,Sample_Category,"**Moderate S1 signal** (20.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.22): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,2.851307979610565,6.117874045268521,139.18141959622594,158.2329021460707,0.914083551946878,149,1.356980662458434,Sample_Category,"**Low S1 signal** (6.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.41): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,3.7557138201362346,6.043752554058533,196.458735903782,206.80892779959925,0.973814933525872,150,1.5119646006851146,Sample_Category,"**Low S1 signal** (6.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.53): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,28.928261189446143,45.79465700132594,5732.5428000091615,5370.493486508154,0.8102370710820443,151,2.0975324859806954,Sample_Category,"**Moderate S1 signal** (45.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.939700827403506,16.802976622496104,3450.4327340537,3983.8910364691465,0.7884071379742589,152,2.312487316396141,Sample_Category,"**Moderate S1 signal** (16.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.37): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,27.22955418611368,41.96324690889351,5352.392748372428,4953.870231057736,0.7127915476759433,153,2.1056788789768723,Sample_Category,"**Moderate S1 signal** (42.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.81923272496572,51.66399793006803,6714.693872946569,7707.300446237362,0.7333239407424377,154,2.113838199087169,Sample_Category,"**High S1 signal** (51.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.785327960522483,21.86200720962437,3613.98057972911,3815.370490297288,0.8073068900473435,155,2.218295761551481,Sample_Category,"**Moderate S1 signal** (21.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,3.6387781374395054,3.655065235633742,751.1981983126659,645.4198520259988,0.5042792219334236,156,2.312859286743362,Sample_Category,"**Low S1 signal** (3.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.25): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,27.155005619854155,38.48746660032523,5393.715210986999,6406.092419807432,0.5515632877966531,157,2.14656867567379,Sample_Category,"**Moderate S1 signal** (38.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.22): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.33772049192359,24.372142638002806,3300.09686759961,3332.231338154648,0.6195382086454491,158,2.131632959035296,Sample_Category,"**Moderate S1 signal** (24.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.84802675068331,21.744882190104537,3327.960175555947,2977.7095796768403,0.8887004038504335,159,2.1848210416921345,Sample_Category,"**Moderate S1 signal** (21.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.127804394001372,4.606291857801608,100.5601164699125,94.91564763734326,0.7885788283316769,160,1.3390742260237425,Sample_Category,"**Low S1 signal** (4.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.31): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,3.3810902869530546,7.574550123150431,165.43495064946262,133.49971845570076,0.7689644918231884,161,1.3392703677168232,Sample_Category,"**Low S1 signal** (7.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.25): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,7.469976448815213,11.574361737389594,1486.1528686491486,1538.103689378117,0.7592321084437723,162,2.108566395499267,Sample_Category,"**Moderate S1 signal** (11.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.70722173114316,68.4641312555784,8212.48644306242,9235.131378956028,0.8434127354701852,163,2.0790115576114343,Sample_Category,"**High S1 signal** (68.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,29.97498662743428,41.6510573613905,5949.769221516335,6312.207773347361,0.7129927530909255,164,2.1548740794097063,Sample_Category,"**Moderate S1 signal** (41.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.7706878653664937,9.39817137498083,176.77327021868405,152.3376497347294,0.7042595382260503,165,1.274373192388914,Sample_Category,"**Low S1 signal** (9.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.21): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,19.63647689004091,33.02998570237743,3947.545884987466,3816.375625685216,0.5184245780472684,166,2.077418788069496,Sample_Category,"**Moderate S1 signal** (33.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.566251493090323,12.82257277996374,317.35944214731245,371.9194088483233,0.9592950430760676,167,1.393576218797469,Sample_Category,"**Moderate S1 signal** (12.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.46): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,31.3580128715797,36.55080122648683,6366.195756917633,6407.196888934522,0.7709195412713847,168,2.240983075461717,Sample_Category,"**Moderate S1 signal** (36.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.38904979172822,7.057679761541994,176.53259370329872,175.91981895668914,0.793687096818284,169,1.398162894458874,Sample_Category,"**Low S1 signal** (7.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.40): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,47.71806614968311,76.16027229190652,9480.404594877671,7792.209820130282,0.8014830583774737,170,2.0950983783566834,Sample_Category,"**High S1 signal** (76.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.01): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,7.659712952003961,12.43393179081157,1509.9872212668752,1470.4991870752028,0.6043909599216716,171,2.084364756700459,Sample_Category,"**Moderate S1 signal** (12.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,7.146909315634652,10.81592802276962,1426.208210961571,1465.2422348006578,0.5282113696252138,172,2.12011910410052,Sample_Category,"**Moderate S1 signal** (10.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.70838956552207,22.33938785743004,3976.243915303656,3227.447288503835,0.7542173856043983,173,2.250401729768689,Sample_Category,"**Moderate S1 signal** (22.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.78056505276112,34.440443458531185,5159.275982829894,4411.43388930002,0.7581103988026288,174,2.1755200126522527,Sample_Category,"**Moderate S1 signal** (34.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,35.98969472333805,61.176095773853895,7070.1492677291935,7344.197668707021,0.5056071964406758,175,2.0628468187608937,Sample_Category,"**High S1 signal** (61.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,3.2816590939431496,2.7965206218019523,679.764813295812,687.8475690878187,0.681167973723356,176,2.38574049955618,Sample_Category,"**Low S1 signal** (2.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.39): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.12095819205928,10.052251164913164,203.8373158802825,199.32442302050188,0.892118775600594,177,1.3070203195408725,Sample_Category,"**Moderate S1 signal** (10.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.30): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,4.193612148804851,4.724899756430784,824.9927815018891,987.548112590714,0.7398187025575639,178,2.2420574582570167,Sample_Category,"**Low S1 signal** (4.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.32): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,42.2986552287784,60.09141958633753,8399.455174273993,7187.247642832199,0.5649525697048952,179,2.1454386457327588,Sample_Category,"**High S1 signal** (60.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,23.150703117384708,38.98290921013079,4641.063910680309,3930.102910417677,0.8631327149003152,180,2.075743291502317,Sample_Category,"**Moderate S1 signal** (39.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.07230838687771,65.77007698503776,7469.156749083837,8365.144991014864,0.7858401391538338,181,2.055243216963456,Sample_Category,"**High S1 signal** (65.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,40.37052040171147,61.439614819082514,8011.507512170072,9563.852709240906,0.865770300265799,182,2.115265752909579,Sample_Category,"**High S1 signal** (61.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,28.86539371279217,43.18741031281949,5694.045172551756,6731.02083623845,0.7004814788899457,183,2.120063735410952,Sample_Category,"**Moderate S1 signal** (43.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,4.675431653882416,7.118105692595857,950.4291523360204,939.0421951187903,0.7898282681260188,184,2.125555256018393,Sample_Category,"**Low S1 signal** (7.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.70065359303926,26.98424781053532,2951.102299019552,3019.565032350851,0.7100149261285393,185,2.038873931939303,Sample_Category,"**Moderate S1 signal** (27.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,28.97824091729962,47.72832097851635,5813.425466506004,5528.90083563279,0.5421947516412117,186,2.085655943046857,Sample_Category,"**Moderate S1 signal** (47.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,8.128654969583472,7.923240604686079,1642.9314253198995,1542.4316054621793,0.8418457123966627,187,2.316716537823455,Sample_Category,"**Low S1 signal** (7.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.29): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,20.30454875656825,31.32757550798305,4130.265955416749,4392.654136736791,0.7875396026879296,188,2.1200512183929283,Sample_Category,"**Moderate S1 signal** (31.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.81500761817444,41.2361483820945,6186.91568215955,6206.676478264573,0.713130878773612,189,2.1761960931554305,Sample_Category,"**Moderate S1 signal** (41.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,35.06515758362822,47.54605101305266,6989.503133334754,8198.115873606479,0.6244526817723091,190,2.167331842850177,Sample_Category,"**Moderate S1 signal** (47.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.1901602973064302,3.433227801803627,114.3045479705238,102.9050800308331,0.9642424853358236,191,1.522360767106635,Sample_Category,"**Low S1 signal** (3.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.48): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,10.47715833942958,19.20379231607989,528.7317981415596,618.2383076948256,0.8295401101825729,192,1.4398484074976232,Sample_Category,"**Moderate S1 signal** (19.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.51): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,24.86124045567659,43.40670879266967,5000.276831319143,4544.203333438553,0.6906535615704992,193,2.061437181242741,Sample_Category,"**Moderate S1 signal** (43.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.02): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.525328045884963,23.16173405516051,2911.900309416207,2571.316256927832,0.8324717429116937,194,2.0994054132695856,Sample_Category,"**Moderate S1 signal** (23.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,3.8508367355364914,6.219125514901791,763.1440297491195,681.0809084343615,0.6167871545847293,195,2.088877119853405,Sample_Category,"**Low S1 signal** (6.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,48.91520230684981,68.22957475124616,9789.4813441583,8853.884852363057,0.8978122916967757,196,2.1567870122680524,Sample_Category,"**High S1 signal** (68.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,28.10942061639903,48.1214535474275,5605.042302228289,6671.557767495664,0.8006472090867689,197,2.066240148609764,Sample_Category,"**Moderate S1 signal** (48.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,22.664423227826823,35.70588456038708,4563.468059759002,5274.487928034493,0.5697714369336915,198,2.1065552065851443,Sample_Category,"**Moderate S1 signal** (35.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,36.335854346084645,51.02735787186387,7246.476684702412,7714.822580459541,0.6577528978842225,199,2.1523238090365915,Sample_Category,"**High S1 signal** (51.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.203474712325345,37.5324930057563,5243.169385833201,5899.501675313685,0.5055169662593306,200,2.145186464430147,Sample_Category,"**Moderate S1 signal** (37.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,8.193586217785793,11.407293779409097,1604.6626972236825,1835.2308201135936,0.8652397268843364,201,2.148201092750665,Sample_Category,"**Moderate S1 signal** (11.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,22.17055938834396,33.03635551642087,4400.924237504372,3562.1577298758507,0.5786209773571274,202,2.1245517480734097,Sample_Category,"**Moderate S1 signal** (33.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.59878543883088,39.53067294819789,4883.232855378572,4428.62548616298,0.8580379763051746,203,2.091773215478704,Sample_Category,"**Moderate S1 signal** (39.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,23.215834288038,34.49735513934506,4595.229537694171,3905.105358267645,0.6799455505160839,204,2.1245213977028508,Sample_Category,"**Moderate S1 signal** (34.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,9.811153679437826,16.866852185823195,505.8006668450224,512.1698304203812,0.7717461185211215,205,1.47694533372249,Sample_Category,"**Moderate S1 signal** (16.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.48): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,48.0899587040402,69.37679682476427,9651.189185976362,10768.09923238588,0.6174451224486621,206,2.143366578393106,Sample_Category,"**High S1 signal** (69.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.714729560881905,11.163234580460768,1311.6221683168917,1514.5651543539602,0.8692655934768452,207,2.070018658737665,Sample_Category,"**Moderate S1 signal** (11.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,10.61201261352666,20.38591876608225,2115.889428163832,2167.098426429138,0.7770379497721958,208,2.0161626582605967,Sample_Category,"**Moderate S1 signal** (20.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,38.19674687338568,56.84357963452127,7603.882834087871,8555.3395314783,0.7875703301079644,209,2.126353989625958,Sample_Category,"**High S1 signal** (56.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.12874863979296,5.580207335287422,106.79649117844508,110.0977316289085,0.9092986455294734,210,1.2819065746700515,Sample_Category,"**Low S1 signal** (5.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.30): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,19.946103338342382,26.064085589025147,4048.929906714816,4186.800727683855,0.8644335846339677,211,2.1912977488647023,Sample_Category,"**Moderate S1 signal** (26.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,20.674291444748327,33.02041352574998,4117.150419365946,3575.9124128238022,0.5524855211746492,212,2.0958142133362125,Sample_Category,"**Moderate S1 signal** (33.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,23.828466769919466,29.38257004280328,4792.394663714645,5096.844676755707,0.7708203832227962,213,2.212462781115898,Sample_Category,"**Moderate S1 signal** (29.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,20.15032973120031,37.929247202923264,1000.125788961109,949.347483848686,0.7973788453820312,214,1.421080391829737,Sample_Category,"**Moderate S1 signal** (37.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.40): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,48.35945712535287,83.5708424500603,9656.285823507553,9624.853229316674,0.6181980954101919,215,2.062755326961182,Sample_Category,"**High S1 signal** (83.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,18.181920846330627,22.374157447231784,3654.0909383618255,3095.162234748738,0.8012497000689944,216,2.213032642135798,Sample_Category,"**Moderate S1 signal** (22.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.780343893111088,15.202126325156527,1928.405339724873,1850.6973541477169,0.8484152073888221,217,2.103293959955,Sample_Category,"**Moderate S1 signal** (15.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,47.10547568157497,75.30634775828916,9293.152475381896,8159.8387456395185,0.8095525307582303,218,2.0913314715809794,Sample_Category,"**High S1 signal** (75.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.04583144879956,41.33138291112327,6055.08378086057,5070.2173099022975,0.8299999168665584,219,2.1658402095484552,Sample_Category,"**Moderate S1 signal** (41.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.607440484162083,51.25370528527218,6068.729675301987,4861.347954479375,0.6119627996334165,220,2.0733725170395587,Sample_Category,"**High S1 signal** (51.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.98): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,8.78221100483956,18.80788015761356,436.0225817124808,436.5778352830728,0.7613316321014203,221,1.3651691111355873,Sample_Category,"**Moderate S1 signal** (18.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.37): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,2.7080486359817293,2.982324628693122,558.1762754780585,604.9851487644564,0.5470632273335345,222,2.272216313573692,Sample_Category,"**Low S1 signal** (3.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.31): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.630381397420594,6.046179590529569,1360.1634168133508,1091.5898551258886,0.6805727721689633,223,2.352109975354754,Sample_Category,"**Low S1 signal** (6.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.26): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,2.701304388549037,5.764128899476365,506.2995456529489,469.1019422842757,0.6571041780885309,224,1.9436737790734933,Sample_Category,"**Low S1 signal** (5.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.91): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,35.19635984221632,63.382808793591,7018.99217489876,6527.783786863669,0.8610626359061591,225,2.044303270516663,Sample_Category,"**High S1 signal** (63.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.01): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,13.539002316318088,24.15504140336051,2708.190751290654,2214.7021599019845,0.5838703474576297,226,2.049671446550116,Sample_Category,"**Moderate S1 signal** (24.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.96): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,19.90269010230101,41.32947219696609,1002.668237851086,1080.192960296342,0.7603101350915227,227,1.384897388559583,Sample_Category,"**Moderate S1 signal** (41.3 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.42): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,25.34268456270664,42.61176477375296,5048.225411333279,4981.089424378914,0.8435734227386179,228,2.073609207550449,Sample_Category,"**Moderate S1 signal** (42.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,10.08277567499353,18.06397057809411,2026.911830895642,1692.08678411419,0.8641276592890785,229,2.050021616581276,Sample_Category,"**Moderate S1 signal** (18.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.97): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,22.567053887430937,30.41227987577124,4466.841896096801,3608.5490270261794,0.6261568647934337,230,2.166951588179656,Sample_Category,"**Moderate S1 signal** (30.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.0561067256686805,4.652225815949263,94.71338662760007,104.0159336423848,0.8322992401284384,231,1.308750490078459,Sample_Category,"**Low S1 signal** (4.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.35): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,5.435938857624439,11.471244425862912,278.6547963874692,330.9938409897516,0.7044504125968559,232,1.3854559528356487,Sample_Category,"**Moderate S1 signal** (11.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.46): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,22.6438549087498,33.66335889219036,4554.4672584229575,5230.580188480621,0.5985862946148834,233,2.1312801243020223,Sample_Category,"**Moderate S1 signal** (33.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.82339639989791,42.89788616057227,3874.7046871191824,4052.4088309856415,0.8914521548641345,234,1.9558027056994185,Sample_Category,"**Moderate S1 signal** (42.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.98): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.4723284402559,39.46264824843795,4861.68570934284,4352.938745219259,0.6004103588259898,235,2.0906006425005974,Sample_Category,"**Moderate S1 signal** (39.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,35.17073825566744,57.86482253953688,7019.227524186503,7668.935790888068,0.5125805812959036,236,2.083874687038417,Sample_Category,"**High S1 signal** (57.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,28.20023750751804,43.08160475651215,5648.087584077215,5829.993099147357,0.7229281354078652,237,2.11760954057247,Sample_Category,"**Moderate S1 signal** (43.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,42.00801710518487,67.71243954588104,8379.068678174963,8450.906766980974,0.872963416566787,238,2.092527282868937,Sample_Category,"**High S1 signal** (67.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,36.848839031276846,56.92140792643242,7446.128286495125,8740.457966761714,0.8068454330531151,239,2.116654873037412,Sample_Category,"**High S1 signal** (56.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,21.68080067732567,35.28961129912422,4374.907431399406,3755.21533533444,0.8505552247597998,240,2.093321981210561,Sample_Category,"**Moderate S1 signal** (35.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.484888689316577,28.855811701733632,4882.0140883621625,4110.222896788241,0.7951474605482312,241,2.22836571805882,Sample_Category,"**Moderate S1 signal** (28.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,36.69774936623156,44.67789756068514,7326.390829004817,6220.600948607345,0.6697101168545412,242,2.2147973448606786,Sample_Category,"**Moderate S1 signal** (44.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,48.604591155259286,70.67036734329736,9666.395212794276,11283.671598969191,0.7173263671961915,243,2.136027192519842,Sample_Category,"**High S1 signal** (70.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.346811063724623,32.02256475675846,5315.416171527302,5156.904025212132,0.5201379046242027,244,2.220081147315177,Sample_Category,"**Moderate S1 signal** (32.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.94658409393069,9.582179007727916,250.09412439631348,271.6928839324255,0.8130967872101061,245,1.4166391653451602,Sample_Category,"**Low S1 signal** (9.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.45): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,3.58703747860077,6.553390226542962,182.95972899830065,152.71816822172357,0.8425083577100589,246,1.445889415304343,Sample_Category,"**Low S1 signal** (6.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.37): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,43.83891040408088,79.08699702623053,8771.605085618141,7821.737153396984,0.6293723395408263,247,2.044973979767995,Sample_Category,"**High S1 signal** (79.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,36.07871512971121,50.07202953690933,7249.148286782873,6355.5171887254255,0.5520662714290794,248,2.160691780319437,Sample_Category,"**High S1 signal** (50.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,21.72565244965172,36.126369632284366,4342.816577645446,4545.806218246055,0.5795593452731376,249,2.07994715388932,Sample_Category,"**Moderate S1 signal** (36.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.237827851927335,72.10966657884624,8219.446526879115,9469.444207746905,0.5852606993322833,250,2.0568490809821465,Sample_Category,"**High S1 signal** (72.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.82860160452576,44.8860626104497,6336.343848229031,6417.510950854108,0.8736398519394886,251,2.1497272161376406,Sample_Category,"**Moderate S1 signal** (44.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.2642959631347,43.9448497769266,6126.3626843482925,7241.719433007485,0.556305923907451,252,2.1442947097150507,Sample_Category,"**Moderate S1 signal** (43.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.22): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,19.727900167910555,39.78775379178602,990.1831551883098,1028.1666062929016,0.7288647817157148,253,1.3959661015983116,Sample_Category,"**Moderate S1 signal** (39.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.41): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,2.140287202707813,6.851973625414704,99.68289843449736,91.18545808969164,0.8994363462632071,254,1.1628049156446685,Sample_Category,"**Low S1 signal** (6.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.12): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,41.56070718163448,62.789191895623816,8215.596612056674,9551.87970307389,0.791356144412763,255,2.1167542066035456,Sample_Category,"**High S1 signal** (62.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,48.33645316259052,78.21886108028762,9570.58250035137,9816.867839853452,0.792863985550226,256,2.087626877771464,Sample_Category,"**High S1 signal** (78.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.672924271106789,23.17029584316132,2964.520184075614,2451.197821123972,0.6542525842939991,257,2.1070228140206986,Sample_Category,"**Moderate S1 signal** (23.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.02): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.53519536392108,54.6106943913326,7443.638403257926,8229.53812676273,0.537799008758691,258,2.1345075611834687,Sample_Category,"**High S1 signal** (54.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,43.939188233086,64.73165083380454,8761.933735430439,7624.634202971452,0.7299060899136715,259,2.1314832748677337,Sample_Category,"**High S1 signal** (64.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.3006908124407675,3.822666419471446,121.992156993864,103.56902559761754,0.8399245207871612,260,1.50396539879475,Sample_Category,"**Low S1 signal** (3.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.43): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,4.401258814030874,8.372129194162214,215.0617249487072,191.0317921518541,0.9619263065637008,261,1.4097271534634743,Sample_Category,"**Low S1 signal** (8.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.36): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,4.392748884034177,8.057778654326144,223.7368624274089,215.712265142344,0.8094632009264433,262,1.44352215827711,Sample_Category,"**Low S1 signal** (8.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.43): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,13.008545887106486,15.280215460326596,2600.158099558672,2964.2445369336874,0.5198386910685173,263,2.230870249185417,Sample_Category,"**Moderate S1 signal** (15.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.29): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,15.589272389426563,26.986752298404166,3137.266972720749,2531.828819748364,0.7768158116520987,264,2.0654008387328644,Sample_Category,"**Moderate S1 signal** (27.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.97): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,5.191245194270849,7.725313595390289,1038.3397340311744,1227.036919622044,0.6015356133081403,265,2.1284232997634644,Sample_Category,"**Low S1 signal** (7.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,14.466830971002684,25.61317823428662,726.6726114573303,757.4322058918768,0.8796687411836447,266,1.4528753037998037,Sample_Category,"**Moderate S1 signal** (25.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.47): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,49.66003610367628,75.86253162026105,10030.351335508847,10531.59276812758,0.7236807258145301,267,2.1212888082249592,Sample_Category,"**High S1 signal** (75.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.314426139370545,14.304301796644674,313.7423346448182,302.7944797631903,0.744059383183492,268,1.341106430525989,Sample_Category,"**Moderate S1 signal** (14.3 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.33): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,4.6182685067573335,10.56019542509862,230.4086223302169,272.5798227306793,0.7114031200183114,269,1.338826732693995,Sample_Category,"**Moderate S1 signal** (10.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.41): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,13.981287984956971,18.23288540151756,2799.6863579713468,3069.106709748089,0.6428540979288715,270,2.1862539551277616,Sample_Category,"**Moderate S1 signal** (18.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.50737542353256,41.39097652808124,5314.340567994249,5241.789251482002,0.7211483969324511,271,2.108543699458372,Sample_Category,"**Moderate S1 signal** (41.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.503636567412308,52.25331798163997,6061.165361267208,5742.141807960431,0.6060979713202829,272,2.0644422519002426,Sample_Category,"**High S1 signal** (52.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,14.677981720262434,27.694783852059537,742.1556458155075,701.9099422684994,0.9539267731645998,273,1.4280970005379463,Sample_Category,"**Moderate S1 signal** (27.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.40): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,8.98360393456315,16.648032638278686,1760.025675875588,1750.0972905034837,0.8195522705335363,274,2.024156059027629,Sample_Category,"**Moderate S1 signal** (16.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.02): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.88444669924122,51.11713497350525,6769.871278698159,5682.772156623666,0.8182283345896941,275,2.122013898340343,Sample_Category,"**High S1 signal** (51.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,45.29888505297431,70.49625862009133,9015.711195313152,8190.604766234208,0.6036440861518769,276,2.1068339164698946,Sample_Category,"**High S1 signal** (70.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,29.56059500184732,38.6978485636625,5929.55936210043,7026.332623237527,0.7412824031944475,277,2.185335589329012,Sample_Category,"**Moderate S1 signal** (38.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.26): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,45.53170979925747,64.2784968846397,9086.879540894492,9738.050633106872,0.5381399144553898,278,2.150349051724889,Sample_Category,"**High S1 signal** (64.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,27.048485389877577,40.19852195959798,5468.879033615059,5585.879415021096,0.816447026681659,279,2.133688221567024,Sample_Category,"**Moderate S1 signal** (40.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.874323682789663,15.646327702523816,1348.8499062110316,1525.262950445328,0.5992446310413899,280,1.9355511766100888,Sample_Category,"**Moderate S1 signal** (15.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.99): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,49.52319605879805,81.00781508285718,9884.991715612616,10601.880867715578,0.851738907173103,281,2.0864493856836304,Sample_Category,"**High S1 signal** (81.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,39.78612748208544,68.08194856885137,7832.942106633873,6299.41477306139,0.7322428134057701,282,2.060892933187911,Sample_Category,"**High S1 signal** (68.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.97): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,15.533320030424782,18.70795792316257,3190.250745496141,3727.159853559048,0.7781766198529028,283,2.231798411300712,Sample_Category,"**Moderate S1 signal** (18.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.30): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.466427295334771,11.577412979282464,336.528768349375,387.22157480134064,0.7859014703828954,284,1.4634106344933906,Sample_Category,"**Moderate S1 signal** (11.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.52): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,22.35392558552552,28.84522656121783,4532.168930787714,5165.4243669712905,0.8185193492616523,285,2.1962321198838546,Sample_Category,"**Moderate S1 signal** (28.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.25): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.618769396011306,22.98025447346264,2884.103547294076,3129.7173515456448,0.6915881834194471,286,2.09865599638299,Sample_Category,"**Moderate S1 signal** (23.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.2938863222677184,4.708587579537804,113.75556748771058,111.62562438493232,0.8461454541104635,287,1.3830819202219875,Sample_Category,"**Low S1 signal** (4.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.37): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,25.38718217978693,39.338316675232925,5037.947312994225,5324.470103914424,0.7057020840806347,288,2.107437838268853,Sample_Category,"**Moderate S1 signal** (39.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.8129780655222616,9.192322951437928,177.15655107362682,151.8864974945234,0.8779720480271467,289,1.2849318980508422,Sample_Category,"**Low S1 signal** (9.2 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.22): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,6.957444453809861,17.76244622919733,329.5938797957037,288.41115297674384,0.7741784873576141,290,1.2684763393521556,Sample_Category,"**Moderate S1 signal** (17.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.21): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,36.99238436762478,64.98603023883696,7426.836882370429,7393.075775580053,0.7715615264776895,291,2.057983870567874,Sample_Category,"**High S1 signal** (65.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.09238617475804,32.052075907602514,4967.730153678751,5693.415953820074,0.8601648260098065,292,2.190301820947159,Sample_Category,"**Moderate S1 signal** (32.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.25): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,20.16944548892824,34.07822810904611,4024.2708451904064,4004.494861172722,0.7749257724471919,293,2.072210184060274,Sample_Category,"**Moderate S1 signal** (34.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.307505547379975,25.12173995057668,3282.397332366247,3534.085784493373,0.7803211849646586,294,2.1161414181798266,Sample_Category,"**Moderate S1 signal** (25.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,15.855282420658812,27.671571584506072,3130.3452557457817,2741.145660714678,0.7098884688147072,295,2.0535583991086384,Sample_Category,"**Moderate S1 signal** (27.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.215241417566936,44.99299915230849,6305.113891627583,7192.234476861339,0.6115877641366899,296,2.1465479828011755,Sample_Category,"**Moderate S1 signal** (45.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.88188441716153,20.767254647233564,2579.6016415660906,2129.9365159981767,0.5754763261492086,297,2.0941735356542472,Sample_Category,"**Moderate S1 signal** (20.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.01): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.683767762493389,15.565764603330736,1931.356824974608,1745.9262241438744,0.8839343505994222,298,2.093692032502096,Sample_Category,"**Moderate S1 signal** (15.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,48.26441631630384,67.00090381324593,9525.85481453622,10680.771769585646,0.8550497609146106,299,2.152823290435109,Sample_Category,"**High S1 signal** (67.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,42.95405077270209,58.46464150137346,8659.652589077146,8299.55157099868,0.7021694438312376,300,2.1706071708325294,Sample_Category,"**High S1 signal** (58.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.0439776144793,41.33623656095902,6622.098437662049,6261.224930924517,0.8413086956620667,301,2.204664687876164,Sample_Category,"**Moderate S1 signal** (41.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.46988548253237,15.588683558909134,313.1499904653607,264.5206092181436,0.7743939317103593,302,1.3029429351257065,Sample_Category,"**Moderate S1 signal** (15.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.23): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,23.44631892340724,31.88273045028204,4695.131829297135,5205.237069790331,0.5755923187519558,303,2.1680922698311864,Sample_Category,"**Moderate S1 signal** (31.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,21.30392824960076,32.96760875634548,4224.433305135975,4397.571089084868,0.8215750366261807,304,2.107680997290173,Sample_Category,"**Moderate S1 signal** (33.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.768918589785578,6.480050443570941,1380.8195172871972,1116.2866543455502,0.5815518537315413,305,2.328558463650083,Sample_Category,"**Low S1 signal** (6.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,23.69172735346458,35.8755873743286,4777.418475405667,3983.101099414299,0.7196270955243347,306,2.124394252424729,Sample_Category,"**Moderate S1 signal** (35.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,47.413503241076754,77.93824454963317,9486.853736503432,11175.627786012456,0.5716783725726124,307,2.085371579685128,Sample_Category,"**High S1 signal** (77.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.527289543764127,17.86171744271892,3539.7204158857867,3313.77113728611,0.758811959193664,308,2.297045721612541,Sample_Category,"**Moderate S1 signal** (17.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.27): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.720214650801003,10.00562291952825,233.1520452774119,246.5680972237379,0.8206101854407556,309,1.3673950563600104,Sample_Category,"**Moderate S1 signal** (10.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.39): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,49.807178746149766,74.34887575202458,9951.416559465832,10393.404309331816,0.5998686829044096,310,2.1266104942588924,Sample_Category,"**High S1 signal** (74.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,8.31387325158784,13.861622094006718,424.13193742912216,468.4500636630709,0.8463316163677975,311,1.4856868914512185,Sample_Category,"**Moderate S1 signal** (13.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.53): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,42.78844858974132,61.75279980996866,8552.392982441346,8886.726037206126,0.7728443349473341,312,2.141430988653788,Sample_Category,"**High S1 signal** (61.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.638765616380452,11.575935959308849,2617.302362509301,2346.004859958088,0.7273491544157943,313,2.354297744331208,Sample_Category,"**Moderate S1 signal** (11.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.31): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,27.028851505250664,44.45104887396884,5378.902322721165,5023.502652771683,0.7755136019991736,314,2.082811635057555,Sample_Category,"**Moderate S1 signal** (44.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.027883182078387,42.53537934246691,5013.344275164577,4729.248674665078,0.786327544848049,315,2.0713772089606657,Sample_Category,"**Moderate S1 signal** (42.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,9.756018836478024,22.23208337684973,467.2137941916553,410.25558219820925,0.7455793298566155,316,1.3225354754540033,Sample_Category,"**Moderate S1 signal** (22.2 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.27): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,17.483994253981944,27.418952584649663,3447.3045795953503,3644.012086834533,0.588777731871025,317,2.099428780055715,Sample_Category,"**Moderate S1 signal** (27.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,34.02447894620636,58.55245931367971,6807.906594579591,6956.966082473423,0.8674179932251369,318,2.065468440205147,Sample_Category,"**High S1 signal** (58.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,7.709075198836658,14.88064867625291,1510.9370847859914,1350.05301478085,0.8327637995746782,319,2.006624488495976,Sample_Category,"**Moderate S1 signal** (14.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.96): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.939487218758742,46.47715775842731,6439.285974699756,7528.322563093559,0.7632873231577288,320,2.141598142106744,Sample_Category,"**Moderate S1 signal** (46.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.86650634765791,68.19415874396978,9335.522847210696,8633.405520626258,0.7647883376725075,321,2.13639146361814,Sample_Category,"**High S1 signal** (68.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,36.78222154298621,47.5369561915182,7345.503270473514,7371.735874037909,0.6641261463069021,322,2.18899017711034,Sample_Category,"**Moderate S1 signal** (47.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.012759183838918,7.932109594220553,204.39399865369992,167.081954786363,0.9672850352425668,323,1.4110793814010634,Sample_Category,"**Low S1 signal** (7.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.32): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,30.97872101760334,48.388309887111625,6161.145013850228,5070.951931652623,0.8654997225686016,324,2.104920968644316,Sample_Category,"**Moderate S1 signal** (48.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.02): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.21292147795706,21.4767089552874,2383.1784565924027,2634.446751651349,0.7207162434060282,325,2.045188812485797,Sample_Category,"**Moderate S1 signal** (21.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.48507630296321,29.44131573136938,3915.042849655422,4653.8972749960685,0.8711130056596341,326,2.123779290374269,Sample_Category,"**Moderate S1 signal** (29.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,19.02025210538945,29.36014252726312,3784.790803674706,3590.4295271815545,0.5524462407328401,327,2.11028370560237,Sample_Category,"**Moderate S1 signal** (29.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.34709467352565,38.25966493538796,5065.387112318812,4766.084207626219,0.7168257182448793,328,2.121871467496357,Sample_Category,"**Moderate S1 signal** (38.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.57862922343481,55.16747701303712,6154.520818171795,6586.946789891757,0.5186190701352917,329,2.047511114537993,Sample_Category,"**High S1 signal** (55.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,43.05234207115268,70.72155939905403,8591.040875578796,7371.96466877509,0.8737957788790558,330,2.08449395105888,Sample_Category,"**High S1 signal** (70.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.02): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.245500014908587,10.04418101842161,203.854449922692,183.492415702308,0.8744933633519318,331,1.3074056239022878,Sample_Category,"**Moderate S1 signal** (10.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.26): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,42.22426528496317,70.16998927865161,8486.302344662305,9589.660281777304,0.7719086288774937,332,2.0825670841673984,Sample_Category,"**High S1 signal** (70.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.06440071554704,62.337364294946994,8714.373164649842,9789.328112804336,0.6441495609064256,333,2.145487710535732,Sample_Category,"**High S1 signal** (62.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,3.661295666640424,5.105631973116164,745.8132320575344,768.3598509622523,0.7273239848428854,334,2.164580493222916,Sample_Category,"**Low S1 signal** (5.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,18.403325407342063,24.889714843646964,3745.0850645267055,4104.386073801025,0.7042528345092217,335,2.1774417482103465,Sample_Category,"**Moderate S1 signal** (24.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.22): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.35404775011114,64.28974457719139,8159.054209304048,8435.425672876536,0.7576642139750511,336,2.1034981116034053,Sample_Category,"**High S1 signal** (64.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,4.506459787348475,10.497338999469678,222.6745939750582,223.6661213599735,0.8082148921407978,337,1.3265914072052258,Sample_Category,"**Moderate S1 signal** (10.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.33): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,26.00909510260456,44.02687914978245,5189.074004085392,5723.29191242839,0.6356394568645857,338,2.0713719531201527,Sample_Category,"**Moderate S1 signal** (44.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,35.006188060476184,53.58307695648366,6934.317979529546,6499.9141244004895,0.5895694711938445,339,2.1119760957777505,Sample_Category,"**High S1 signal** (53.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.138277365324466,12.354140026890205,311.8701851979206,269.7988146036395,0.7734446349631511,340,1.4021613049093349,Sample_Category,"**Moderate S1 signal** (12.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.34): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,17.825885393987445,21.742718139187264,3570.66113518781,4177.930894071217,0.567660287518189,341,2.2154347807110555,Sample_Category,"**Moderate S1 signal** (21.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.28): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.91792803741116,60.98760735461444,8911.493775135823,8789.413495677642,0.5729335933974581,342,2.1647089054001807,Sample_Category,"**High S1 signal** (61.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.036953808259636,6.631610009105185,150.46968345000417,162.41438683710183,0.7716607657024076,343,1.3558299663678202,Sample_Category,"**Low S1 signal** (6.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.39): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,27.727747556465925,44.9167668769968,5558.273669734054,4570.465527000894,0.6087542511149083,344,2.092531428440017,Sample_Category,"**Moderate S1 signal** (44.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.01): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.019984937290229,15.432320804338012,2406.9963213506007,2516.6942217057285,0.5187024177363275,345,2.1930441558091185,Sample_Category,"**Moderate S1 signal** (15.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.8396891079491264,5.78945573634674,145.43912976308695,164.48080182645367,0.8665643105576246,346,1.400043457397128,Sample_Category,"**Low S1 signal** (5.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.45): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,44.25360295817247,61.75528799745092,8782.951803256576,9509.37544686618,0.721083868040822,347,2.1529663411681144,Sample_Category,"**High S1 signal** (61.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.836762908559624,14.7883282567648,348.9706076507404,337.8645385861502,0.7061947155157874,348,1.3728697395009817,Sample_Category,"**Moderate S1 signal** (14.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.36): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,43.02052312607231,69.31067990099761,8621.463144746873,8428.321227309681,0.7668613816634009,349,2.094780810724516,Sample_Category,"**High S1 signal** (69.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,38.483605907807295,54.82339380190783,7672.605634404373,8406.41351836209,0.8195699224725688,350,2.1459769518150216,Sample_Category,"**High S1 signal** (54.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.706539827505797,23.31882165296288,2523.8106259383,2081.9133603590976,0.8401456311524486,351,2.0343501452015387,Sample_Category,"**Moderate S1 signal** (23.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.95): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.0993426727461504,4.21219866479517,105.8799976049328,119.07417420586226,0.913843250064617,352,1.4003049776738838,Sample_Category,"**Low S1 signal** (4.2 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.45): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,33.68240154833239,51.69230986130255,6602.743121121799,7863.660981766094,0.6524056160199446,353,2.10629845412468,Sample_Category,"**High S1 signal** (51.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,27.65949485662488,39.999536407372624,5503.256159887834,5059.744320963415,0.551231021051627,354,2.138564759688588,Sample_Category,"**Moderate S1 signal** (40.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,18.94762582505584,30.319701422422582,3844.411300950712,4098.311249976492,0.5391921503816262,355,2.1031049108086,Sample_Category,"**Moderate S1 signal** (30.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.863925268296558,18.33406372158266,1923.256631031508,1639.7075161814462,0.7087660497987369,356,2.020778478573271,Sample_Category,"**Moderate S1 signal** (18.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.95): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.19519045677367,63.54476300060879,8726.25057317995,9258.911471595506,0.5329873641625433,357,2.137747908482319,Sample_Category,"**High S1 signal** (63.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,9.42677494471863,16.995073551370528,484.7059445981523,512.6690932341223,0.7301030355606903,358,1.4551552729670136,Sample_Category,"**Moderate S1 signal** (17.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.48): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,26.029285095074005,35.08471830869526,5265.37277539042,5482.253440300254,0.8533008809460074,359,2.176311117314188,Sample_Category,"**Moderate S1 signal** (35.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.413323148441044,37.809204146432336,4852.137399566678,5778.9523303931055,0.7505679601905887,360,2.108335543124466,Sample_Category,"**Moderate S1 signal** (37.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,7.325911318224563,13.392120917249777,1459.109584701577,1588.675144897784,0.7834929303694524,361,2.037238516255927,Sample_Category,"**Moderate S1 signal** (13.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.744632767955002,22.40083595642123,2973.848904146016,2875.387855516793,0.70623868972139,362,2.123054654115047,Sample_Category,"**Moderate S1 signal** (22.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,49.74332960638674,68.47949647065369,10008.600272289836,11330.822435394546,0.6569640791715408,363,2.164812779945028,Sample_Category,"**High S1 signal** (68.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.22): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.919354186332967,35.94622035166262,5362.439141569701,6401.396785100889,0.8331424603713764,364,2.1737091321796584,Sample_Category,"**Moderate S1 signal** (35.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.25): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.293555210608643,6.708203053362917,1295.1786489669662,1095.3785320554475,0.6426985733321031,365,2.2857234120782746,Sample_Category,"**Low S1 signal** (6.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.21): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.483487482436034,18.02416407969945,1853.6342026521909,1580.1104616235273,0.7796672517309476,366,2.012168878200196,Sample_Category,"**Moderate S1 signal** (18.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.94): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.556023780714543,13.062084064910554,1291.876228451301,1249.0967662549212,0.5286292393534505,367,1.995208399567463,Sample_Category,"**Moderate S1 signal** (13.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.98): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,20.862349545895853,32.39755343540231,4215.954854981323,4920.006119794084,0.737320591062168,368,2.114383723594907,Sample_Category,"**Moderate S1 signal** (32.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,36.9432567762712,60.905621200307074,7318.092830959886,8413.806929714883,0.897684880365396,369,2.079740530103383,Sample_Category,"**High S1 signal** (60.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,47.61998724061764,66.59789457946744,9525.43658199696,11085.649968154275,0.6507560496997397,370,2.155424383832464,Sample_Category,"**High S1 signal** (66.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.22): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.18658846398078,55.69920999464857,8259.896883611025,7226.587235637041,0.5883127880115653,371,2.171125582450076,Sample_Category,"**High S1 signal** (55.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,5.635134990922006,10.501584777846904,291.0902574890817,292.4715497258785,0.8297376991116756,372,1.44277278767902,Sample_Category,"**Moderate S1 signal** (10.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.44): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,7.235923938671459,10.395153569443613,367.3840632005965,392.5001507976136,0.9607197149237698,373,1.5482893628429812,Sample_Category,"**Moderate S1 signal** (10.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.58): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,27.247783441443246,35.82614601894965,5564.4406985734295,6141.444745688892,0.604055659582297,374,2.191221414709243,Sample_Category,"**Moderate S1 signal** (35.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,6.202425049280954,7.804939959965648,1229.5276534946693,987.5295110992378,0.5292166547023845,375,2.1973686791066545,Sample_Category,"**Low S1 signal** (7.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,28.9989386561777,48.641251163771,5755.292249853765,5885.663219206225,0.7384911867715909,376,2.073062635401564,Sample_Category,"**Moderate S1 signal** (48.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,41.59962233260521,62.83428587928464,8376.400873001494,9565.296310504931,0.7448782288384765,377,2.124860762899567,Sample_Category,"**High S1 signal** (62.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.35311726547352,61.44229474007739,9283.2963609062,10230.32550019373,0.5293854152628996,378,2.1792347808057286,Sample_Category,"**High S1 signal** (61.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.22): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.505381343297046,59.95175927500481,7484.23175740584,8675.65643918433,0.6295850673865133,379,2.096345288327304,Sample_Category,"**High S1 signal** (60.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,9.455685015821466,17.13763585827568,481.7477382670774,568.081201322713,0.7974931124242878,380,1.4488687492728731,Sample_Category,"**Moderate S1 signal** (17.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.52): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,30.128955214371462,46.04537477015959,6009.336732817922,6529.250802700259,0.7603498143375174,381,2.1156405188926666,Sample_Category,"**Moderate S1 signal** (46.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,4.644258610597424,7.471371654538369,895.9072392917275,802.6563167282133,0.5871123288258078,382,2.078862647825104,Sample_Category,"**Low S1 signal** (7.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.299233277150975,49.692203941455375,7461.161112349313,8552.29937340015,0.6042191823026933,383,2.1765181503948337,Sample_Category,"**Moderate S1 signal** (49.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,42.25884850413491,64.81624037113382,8366.466777332844,7143.299364355153,0.6061211439091906,384,2.1108582477676707,Sample_Category,"**High S1 signal** (64.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.81137452734936,70.39964568351634,9334.685401805156,8662.150780450347,0.8858322007416695,385,2.1225292064135344,Sample_Category,"**High S1 signal** (70.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.019040454473334,26.552227721324385,3341.231910625119,2681.456950881565,0.8340110102506049,386,2.099805640201424,Sample_Category,"**Moderate S1 signal** (26.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,2.571465937198933,5.0582466155945935,137.14668853079206,131.80698157521414,0.9733294617431982,387,1.4331852435181034,Sample_Category,"**Low S1 signal** (5.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.42): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,6.643417716966733,16.41393709574234,335.5104264839867,380.68600375187015,0.7382006634045292,388,1.3104932311813846,Sample_Category,"**Moderate S1 signal** (16.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.37): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,3.242693682707525,4.843792603073318,631.6395258539213,668.5894597116294,0.7418054327367855,389,2.1152836702271625,Sample_Category,"**Low S1 signal** (4.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.68152697870991,28.178222266700136,5109.062437154875,5273.254686166639,0.6115460446560762,390,2.258427604368332,Sample_Category,"**Moderate S1 signal** (28.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.27): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,32.59724564459192,47.60945579301296,6576.919443963105,6529.280117757629,0.5240879197577959,391,2.140329296234731,Sample_Category,"**Moderate S1 signal** (47.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.892740345658343,36.397975504617314,5361.602901703132,6218.057189502384,0.7148788416088324,392,2.168217405296257,Sample_Category,"**Moderate S1 signal** (36.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.26491279646044,47.64710843796277,5982.715195205808,6210.354619131591,0.8021606765021342,393,2.098861770147716,Sample_Category,"**Moderate S1 signal** (47.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.586682424185708,24.40495894691749,2448.537291781696,2411.8667850391525,0.6689725134425614,394,2.001428623751007,Sample_Category,"**Moderate S1 signal** (24.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.99): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,32.67198241531421,52.04898829478753,6569.349308624503,7159.317800914724,0.798374764311854,395,2.1011100544159462,Sample_Category,"**High S1 signal** (52.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,5.706406188791258,9.72193348265943,1134.730671752194,977.6903430802074,0.888942724035183,396,2.0671401043939754,Sample_Category,"**Low S1 signal** (9.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,25.54302365065853,36.627164967122646,5189.139258158793,5856.638998868442,0.8476881135861289,397,2.15129200950517,Sample_Category,"**Moderate S1 signal** (36.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.20): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.287545311701011,19.530922866180315,2430.485600918421,1982.0229949202603,0.596553843583087,398,2.094970265586274,Sample_Category,"**Moderate S1 signal** (19.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.01): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,13.841451908625478,16.69231662764124,2756.726300607428,3157.056333210976,0.5861123155918129,399,2.21787700978362,Sample_Category,"**Moderate S1 signal** (16.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.28): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,33.185308392765975,49.089281279207086,6591.3125472821375,6014.11676434923,0.5653804290680136,400,2.127985223150975,Sample_Category,"**Moderate S1 signal** (49.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,8.692289448698123,16.14158619110943,1699.237148084598,1427.3110942618746,0.7589150920330021,401,2.0223077577817814,Sample_Category,"**Moderate S1 signal** (16.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.95): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.627225614030962,9.248557901144755,1978.46040162452,1602.1068794502246,0.5637169521831783,402,2.330253295827411,Sample_Category,"**Low S1 signal** (9.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.24): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,49.7405052168124,80.02036208038953,9926.712336403843,11747.029221761117,0.6134176476770825,403,2.0936049192061126,Sample_Category,"**High S1 signal** (80.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,45.397716054750006,70.85088220540958,9161.268981878286,7827.331679341138,0.6467574659671993,404,2.111610366195594,Sample_Category,"**High S1 signal** (70.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,7.810092406946219,18.72033052431248,385.3646899930805,322.42520568841525,0.8821022447345268,405,1.3135583844179952,Sample_Category,"**Moderate S1 signal** (18.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.24): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,9.928182512644703,16.275823971247974,1949.4069798395224,2323.9310279662045,0.8725197593996028,406,2.0783595061001563,Sample_Category,"**Moderate S1 signal** (16.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,21.22547006019892,41.90163375958162,4216.020597625242,4597.474202280346,0.7162462333170413,407,2.0026717571276795,Sample_Category,"**Moderate S1 signal** (41.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.24306059758472,56.05425506225038,7433.362795738882,6073.50018539538,0.8763535535879671,408,2.1225767366341306,Sample_Category,"**High S1 signal** (56.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,42.538810382523664,57.383516366338974,8627.453641783655,8890.596133753725,0.7576990533880519,409,2.1770954692730653,Sample_Category,"**High S1 signal** (57.4 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.61194036948725,57.95887085182197,7502.83692997632,6276.1851009761485,0.8774096880544395,410,2.1121055839608864,Sample_Category,"**High S1 signal** (58.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,8.343327494066006,18.67271583080123,421.24994463826215,403.3124571394209,0.9430131820612452,411,1.353332346591974,Sample_Category,"**Moderate S1 signal** (18.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.33): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,8.08682383820027,14.631613318146588,1583.9189307759148,1894.6952176530365,0.7597368522540531,412,2.03444070489942,Sample_Category,"**Moderate S1 signal** (14.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,8.517754117567856,19.11328774933344,429.9457701520572,427.1643227298112,0.8929726503222486,413,1.3520782608362396,Sample_Category,"**Moderate S1 signal** (19.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.35): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,3.8609966118664873,6.819257706097339,202.938122476667,234.5185943226716,0.7760491448018424,414,1.4736264733993616,Sample_Category,"**Low S1 signal** (6.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.54): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,30.515732874342724,45.65013270743599,6125.378400568118,6021.895228942024,0.5061301383463491,415,2.127690868951284,Sample_Category,"**Moderate S1 signal** (45.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,42.38146420939788,52.17581325283149,8495.723017781678,9798.291299950914,0.7326298910591531,416,2.211731109546875,Sample_Category,"**High S1 signal** (52.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.27): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.780447528816676,27.84771322628197,3576.338721249256,3232.244149160609,0.6150433725358946,417,2.108649091415963,Sample_Category,"**Moderate S1 signal** (27.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.933008280130761,5.888984998228987,195.0557556500549,177.12225607049697,0.7915492600021069,418,1.5201182503684654,Sample_Category,"**Low S1 signal** (5.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.48): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,6.203090170588408,14.73188608246571,304.3799264554429,324.37744415437845,0.7943379849954901,419,1.3151576277946495,Sample_Category,"**Moderate S1 signal** (14.7 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.34): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,31.7013075667214,54.23645446898724,6326.0138549372505,6343.786550603532,0.8607421988708341,420,2.066838839609182,Sample_Category,"**High S1 signal** (54.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,7.672739235644231,15.035879873121862,394.8870324753104,470.656992104666,0.9352610086415822,421,1.4193439972518789,Sample_Category,"**Moderate S1 signal** (15.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.50): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,49.01840491915991,86.28815672883175,9662.603636807788,9398.192287015225,0.7317177467967468,422,2.049142968241278,Sample_Category,"**High S1 signal** (86.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,26.19356069781345,40.5071027946476,5181.634258081084,4723.3683946712745,0.5465540221497607,423,2.10693556265072,Sample_Category,"**Moderate S1 signal** (40.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.478787305643028,29.10767746927039,3270.036162552938,3921.559275170104,0.7623557162379193,424,2.0505449866291894,Sample_Category,"**Moderate S1 signal** (29.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,22.366066737197787,38.56292498289333,4389.891271333968,4916.042716999295,0.7171002574201593,425,2.056283785074449,Sample_Category,"**Moderate S1 signal** (38.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,10.356711803963282,13.260730294584626,2062.391371841362,2396.812525186752,0.5335055979777363,426,2.1918036083904515,Sample_Category,"**Moderate S1 signal** (13.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.26): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.93616539981405,72.62660026724987,9491.588527321868,7966.646705088961,0.5573216798649919,427,2.116243181965408,Sample_Category,"**High S1 signal** (72.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.04): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.821496164530885,29.11688030620457,3594.9047375004743,4212.838493955774,0.6354507376207441,428,2.0915425304083484,Sample_Category,"**Moderate S1 signal** (29.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,38.28916633906469,46.50098893918249,7760.400581380258,8918.436768101448,0.8550551106984365,429,2.2224219410932893,Sample_Category,"**Moderate S1 signal** (46.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.28): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.566440577616522,22.461764296060142,2880.065342457103,3334.627510746761,0.633313205789122,430,2.1079584562534954,Sample_Category,"**Moderate S1 signal** (22.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.025247794858958,21.6070760975929,2398.613160068176,2734.6634552613427,0.5841864287414646,431,2.0453641907339803,Sample_Category,"**Moderate S1 signal** (21.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.677323034343182,22.18772780834161,3323.797909672301,3266.208359114719,0.6344443231526677,432,2.175521761461776,Sample_Category,"**Moderate S1 signal** (22.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,10.130401008857056,18.73329427910689,2009.0874703064624,1625.1523680514515,0.8583990743532726,433,2.0303846667605425,Sample_Category,"**Moderate S1 signal** (18.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.94): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.34087677311543,35.79433926805238,4827.9956398961685,4729.461673150428,0.503963682845655,434,2.1299525070417884,Sample_Category,"**Moderate S1 signal** (35.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,39.51879250922025,55.58462222596815,7880.059376377224,7972.134118289374,0.6569249580659401,435,2.1515748237817456,Sample_Category,"**High S1 signal** (55.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,32.91764914074288,56.3102355264638,6556.389920782329,5264.34888486061,0.5121858283741599,436,2.06607742247593,Sample_Category,"**High S1 signal** (56.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.97): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.16517979302917,77.22645397581636,9110.89295409306,7753.404768043707,0.7216698633304977,437,2.0717948447691783,Sample_Category,"**High S1 signal** (77.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.00): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,7.382167582464099,7.71927445791488,1504.9066034550929,1452.8808983105812,0.8802778141415114,438,2.2899330093943164,Sample_Category,"**Low S1 signal** (7.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.27): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,4.901619332807131,8.926915351957977,945.051602980626,882.2841140373434,0.5434454870862607,439,2.024754058232895,Sample_Category,"**Low S1 signal** (8.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.99): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,8.449019563854124,19.131063521917056,418.7783617120736,399.7492633626936,0.8637463546399335,440,1.3402450981952925,Sample_Category,"**Moderate S1 signal** (19.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.32): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,2.4199672891325736,6.352155576658339,118.47127364483462,110.09444269471176,0.9570453499709792,441,1.2706918664647042,Sample_Category,"**Low S1 signal** (6.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.24): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,34.33543987266326,56.72181267246908,6868.98825104758,7743.822862147382,0.8044028283430258,442,2.083142664702678,Sample_Category,"**High S1 signal** (56.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,6.367489097442435,14.589605412420116,305.20900368461145,276.52681757338905,0.906298127757434,443,1.3205537666319271,Sample_Category,"**Moderate S1 signal** (14.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.28): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,4.259150079825157,12.360612977578944,211.94892982055185,254.3178827478236,0.8982536102205436,444,1.2341911865000692,Sample_Category,"**Moderate S1 signal** (12.4 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.31): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,18.583072802774616,24.789173815178582,3778.975117317768,4187.532764700606,0.8702331022319462,445,2.1831119622617816,Sample_Category,"**Moderate S1 signal** (24.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,46.97430274343423,73.52229150211696,9358.67695949166,7939.177603819175,0.6830298998415127,446,2.1047954163651275,Sample_Category,"**High S1 signal** (73.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.65559446149037,72.87405390526992,8932.653888881992,8125.762594032424,0.8485470028404506,447,2.0884075713814707,Sample_Category,"**High S1 signal** (72.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,39.39945606321645,55.47570862562465,7870.653175079308,6823.005703587543,0.8313174141110351,448,2.151907909152773,Sample_Category,"**High S1 signal** (55.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,13.178056775090017,25.229083723888536,650.9784933037636,702.4756927348999,0.726584775725112,449,1.4116651462687513,Sample_Category,"**Moderate S1 signal** (25.2 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.44): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,45.51589301149728,71.95920208277762,9124.019042434347,8883.687983010997,0.5947352491040743,450,2.103099837979052,Sample_Category,"**High S1 signal** (72.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,8.429325405058913,16.83189527248873,424.5779478446608,430.3615297383607,0.963336805940695,451,1.4018243884985802,Sample_Category,"**Moderate S1 signal** (16.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.41): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,10.133540546045932,22.0986641949838,504.09737332264376,425.2004853445604,0.907929800196503,452,1.3581483931532807,Sample_Category,"**Moderate S1 signal** (22.1 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.28): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,17.285718445576723,24.24535732448641,3472.1507915855304,4155.56915207099,0.5369296577013647,453,2.1559699709787585,Sample_Category,"**Moderate S1 signal** (24.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.23): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.52511799987278,26.805753671930777,3341.664539288295,3398.9450149378245,0.6206308515437491,454,2.0957348116408085,Sample_Category,"**Moderate S1 signal** (26.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.10): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,37.99618455441062,61.07678208401481,7559.517394964207,7021.834641148243,0.649555807411439,455,2.092617916087622,Sample_Category,"**High S1 signal** (61.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.06): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,31.280713614263824,51.14563082886668,6234.549999437762,7416.318393699514,0.6698126750351769,456,2.085996564238885,Sample_Category,"**High S1 signal** (51.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.7886851499903,13.964338883721007,1929.2120087186124,1951.962630388116,0.5591763388324151,457,2.1403595460855955,Sample_Category,"**Moderate S1 signal** (14.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.112062362732445,36.873301817372976,4832.4159078148605,5521.825143610592,0.8832126253050843,458,2.1174522654038768,Sample_Category,"**Moderate S1 signal** (36.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.344560629690754,25.063967546768662,3525.476736303104,3074.8408935980888,0.6323917642293782,459,2.1481680164803305,Sample_Category,"**Moderate S1 signal** (25.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,27.892230089532667,44.1737986935329,5495.625982113054,5340.049454210176,0.6881360582745586,460,2.094852410660822,Sample_Category,"**Moderate S1 signal** (44.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,28.66574135233525,45.7659578730602,5809.586577064098,4851.164662142889,0.5738622470431979,461,2.103602662229733,Sample_Category,"**Moderate S1 signal** (45.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.03): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,3.27564899050285,5.585685082695277,629.4957486100623,542.4434662024478,0.5558472022059814,462,2.0519162775084334,Sample_Category,"**Low S1 signal** (5.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.99): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,30.646754020294097,43.49452561183632,6143.688315737964,5351.143142082454,0.5351153451976638,463,2.1499945664301965,Sample_Category,"**Moderate S1 signal** (43.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,10.828278928428707,19.908614076812626,550.2749610042807,599.6598844973254,0.7138546882478065,464,1.4415387026685025,Sample_Category,"**Moderate S1 signal** (19.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.48): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,5.443121434064807,8.996638956495815,1081.604585644627,1214.577668408927,0.5496903070427525,465,2.0799881798078834,Sample_Category,"**Low S1 signal** (9.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,10.252820779480723,9.867701499757109,2034.0451623402907,2193.804315757796,0.8414569000251028,466,2.3141445441206474,Sample_Category,"**Low S1 signal** (9.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.35): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.836050932468513,6.320887557471807,203.70439999726943,206.2325046434512,0.895135826107722,467,1.508222278534442,Sample_Category,"**Low S1 signal** (6.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.51): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,25.5014818441591,34.32109851107652,5116.229889109205,4408.958811528918,0.5832258895301211,468,2.1733888581538365,Sample_Category,"**Moderate S1 signal** (34.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,13.415076823394651,28.944452242408143,657.430236082466,678.3131548372505,0.9350456864211693,469,1.356284324436256,Sample_Category,"**Moderate S1 signal** (28.9 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.37): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,45.36862546656839,67.65910892662953,9204.765407083483,8703.488207151595,0.5967458098056955,470,2.1336864443550643,Sample_Category,"**High S1 signal** (67.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,23.10201010645732,36.85140447542398,4586.659436850717,4351.287329608806,0.7575401404876898,471,2.0950424386451774,Sample_Category,"**Moderate S1 signal** (36.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.07): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,3.3883710927811297,4.1555319834030815,678.4826205911534,625.638225155285,0.8046419966952478,472,2.212911994522819,Sample_Category,"**Low S1 signal** (4.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,39.8825359891235,61.111712164939554,7940.386492149041,8434.231719104197,0.8371165237108533,473,2.1137171833312256,Sample_Category,"**High S1 signal** (61.1 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,34.57990067995787,48.66066721913977,6816.326572577057,5931.75223848086,0.5764197284090782,474,2.146372321056151,Sample_Category,"**Moderate S1 signal** (48.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.09): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,11.145215433879288,19.458453140246355,2227.543385431965,2484.0621192649533,0.898183721780085,475,2.0587178364958434,Sample_Category,"**Moderate S1 signal** (19.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,11.50872255976273,9.819447163292711,2335.328368914597,2234.220537314721,0.7234342777468779,476,2.376260873387043,Sample_Category,"**Low S1 signal** (9.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.36): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,14.032033949959075,14.77924100688842,2821.5913471574786,3113.5859905004,0.7366855705695189,477,2.280841954313467,Sample_Category,"**Moderate S1 signal** (14.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.32): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,32.66373802631633,53.21970128402161,6436.268512815947,6398.717660954148,0.7727880439998451,478,2.0825617133393868,Sample_Category,"**High S1 signal** (53.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,43.152115253673,69.34339500209725,8525.796955976919,10055.415929698678,0.8980763987764278,479,2.0897298788063883,Sample_Category,"**High S1 signal** (69.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,12.004713067608035,22.27648030041605,594.8795940359622,507.1268098670984,0.7387367517492696,480,1.4265824798625877,Sample_Category,"**Moderate S1 signal** (22.3 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.36): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,20.33780804837,33.786438963087846,4064.666663376093,4857.484576153964,0.8999985486868436,481,2.080282502627841,Sample_Category,"**Moderate S1 signal** (33.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.16): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,22.345347981315328,30.89759301484662,4507.5870367890575,4713.521233960824,0.7132607724203985,482,2.164019458966104,Sample_Category,"**Moderate S1 signal** (30.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.18): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,45.43947455480674,73.66861964957329,9080.691257618746,8856.984212664842,0.6017634202217188,483,2.0908363716924216,Sample_Category,"**High S1 signal** (73.7 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,34.588806025254755,54.54100168123567,6913.466898453175,7413.208711810734,0.7199674027366667,484,2.1029727701100374,Sample_Category,"**High S1 signal** (54.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,9.959008169281072,15.884670969396083,2019.0527263807471,2053.533884996321,0.7405532855680751,485,2.1041694099100083,Sample_Category,"**Moderate S1 signal** (15.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.11): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,10.275242017514236,19.786202432722742,2040.903111950645,2370.666046929237,0.7778779776268299,486,2.013459918119632,Sample_Category,"**Moderate S1 signal** (19.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,44.88273124932635,70.96285787343484,8986.570918560434,10603.816277273589,0.7874408415988268,487,2.1025629024393946,Sample_Category,"**High S1 signal** (71.0 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.17): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,5.265198819010315,6.526736466975601,1029.3748826269157,898.7654362429665,0.8283863583223264,488,2.197877423532064,Sample_Category,"**Low S1 signal** (6.5 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.14): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,16.663767902135092,23.33742394191458,3333.078841576032,3265.495451526537,0.5647426587311237,489,2.154792652658424,Sample_Category,"**Moderate S1 signal** (23.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.15): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,24.199216377875324,41.87926051957458,4830.359432976148,3891.542421157356,0.5949375015275689,490,2.0619804335124696,Sample_Category,"**Moderate S1 signal** (41.9 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=1.97): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,12.52785885513799,17.229025692276153,2550.145724430995,2329.9625622309327,0.8690387464733254,491,2.1703042546132463,Sample_Category,"**Moderate S1 signal** (17.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.13): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,17.16399237052673,28.18510141277032,3431.110613351252,3126.532419133954,0.6206158678180242,492,2.0854151021447755,Sample_Category,"**Moderate S1 signal** (28.2 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.05): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,22.91224033860882,50.80628230322365,1122.4367193458188,1015.1449680708346,0.8411720217034953,493,1.3442444405556062,Sample_Category,"**High S1 signal** (50.8 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.30): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,36.2903583687114,53.7976881124819,7232.465902212363,8294.643631028504,0.6931712363686708,494,2.128522773999165,Sample_Category,"**High S1 signal** (53.8 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.19): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,3.606997944881871,7.600870404533788,190.38429428835823,183.0929022416764,0.8574475008932593,495,1.398767735800548,Sample_Category,"**Low S1 signal** (7.6 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.38): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Nuclear Recoil,2.580729753871044,5.512004337974404,127.9868339447911,128.1244949056123,0.9127766622210536,496,1.3658556698149984,Sample_Category,"**Low S1 signal** (5.5 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.37): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"
+Electronic Recoil,48.98341335969475,78.31255418147047,9719.277833339484,10247.13762337894,0.6983076157062889,497,2.093802602647356,Sample_Category,"**High S1 signal** (78.3 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.12): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Electronic Recoil,47.43528502346573,67.55303420681399,9524.685341801254,8211.552678372776,0.7642080174674775,498,2.1492057702839493,Sample_Category,"**High S1 signal** (67.6 photons).
+
+**Moderate S2/S1 ratio** (log₁₀=2.08): Borderline region.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Electronic Recoil"
+Nuclear Recoil,15.357963440593648,32.01923190326401,766.4065786756676,867.8511451417307,0.8063567904142094,499,1.3790483013946142,Sample_Category,"**Moderate S1 signal** (32.0 photons).
+
+**Low S2/S1 ratio** (log₁₀=1.43): Nuclear recoil likely.
+
+**Classification: Electronic Recoil**
+
+⚠ Ground truth: Nuclear Recoil"

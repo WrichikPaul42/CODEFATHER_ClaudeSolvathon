@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-primary: #0a1929;
+  --background-secondary: #132f4c;
+  --accent-nuclear: #00d4ff;
+  --accent-electronic: #b026ff;
+  --accent-wimp: #ffd700;
+  --text-primary: #ffffff;
+  --text-secondary: #b0bec5;
+  --success: #00e676;
+  --warning: #ffd54f;
+  --error: #ff5252;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--background-primary);
+  color: var(--text-primary);
+}
+
+code {
+  font-family: 'Monaco', 'Consolas', 'Courier New', monospace;
+}
+
+@keyframes particleFloat {
+  0%, 100% {
+    transform: translate(0, 0);
+    opacity: 0.3;
+  }
+  25% {
+    transform: translate(10px, -10px);
+    opacity: 0.6;
+  }
+  50% {
+    transform: translate(-5px, -20px);
+    opacity: 0.4;
+  }
+  75% {
+    transform: translate(-15px, -10px);
+    opacity: 0.7;
+  }
+}
+
+@keyframes glow {
+  0%, 100% {
+    opacity: 0.5;
+    box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);
+  }
+  50% {
+    opacity: 1;
+    box-shadow: 0 0 40px rgba(0, 212, 255, 0.6);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.particle {
+  position: absolute;
+  background: radial-gradient(circle, rgba(0, 212, 255, 0.8) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  animation: particleFloat 8s infinite ease-in-out;
+}
+
+.glass-card {
+  background: rgba(19, 47, 76, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.glass-card:hover {
+  background: rgba(19, 47, 76, 0.8);
+  border-color: rgba(0, 212, 255, 0.3);
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
+.glow-cyan {
+  box-shadow: 0 0 20px rgba(0, 212, 255, 0.4);
+}
+
+.glow-purple {
+  box-shadow: 0 0 20px rgba(176, 38, 255, 0.4);
+}
+
+.glow-gold {
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
+  animation: glow 2s infinite ease-in-out;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #00d4ff 0%, #b026ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.cosmic-gradient {
+  background: linear-gradient(180deg, #0a1929 0%, #1a237e 50%, #0a1929 100%);
+}
+
+.scroll-smooth {
+  scroll-behavior: smooth;
+}
